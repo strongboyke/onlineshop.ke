@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maxwel Mogoba</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .contact-info a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Maxwel Mogoba</h1>
+            <p>Current student at Chuka University pursuing a Bachelor in Procurement and Logistics Management</p>
+            <p>Self-motivated businessman</p>
+        </header>
+        <section>
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Research about business through reading and physical visits</li>
+                <li>Analyzing various crises to bring out business niches</li>
+                <li>Watching educative and business-related content</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me through the following platforms:</p>
+            <div class="contact-info">
+                <p>Email: <a href="mailto:maxwel@example.com">maxwel@example.com</a></p>
+                <p>Facebook: <a href="https://www.facebook.com/yourprofile" target="_blank">facebook.com/yourprofile</a></p>
+                <p>Twitter: <a href="https://www.twitter.com/yourprofile" target="_blank">twitter.com/yourprofile</a></p>
+                <p>Phone: <a href="tel:+1234567890">+1234567890</a></p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
